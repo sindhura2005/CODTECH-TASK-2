@@ -3,4 +3,22 @@ COMPANY:CODTECH IT SOLUTIONS
 ID:CT08DS2416
 DOMAIN:MACHINE LEARNING
 DURATION:JUNE 15 TO JULY 15 2024
-MENTOR:
+MENTOR:NEELA SANTHU
+OVERVIEW OF THE PROJECT
+Objectives of the Project
+Understand the Data:
+1)Load the IMDb Movie Reviews dataset.
+Perform exploratory data analysis (EDA) to understand the distribution of reviews, identify any data imbalances, and clean the data if necessary.
+Data Preprocessing:
+Data Preprocessing:
+Preprocess the text data to make it suitable for model training.
+Tokenize and pad the sequences to ensure uniform input size for the model.
+Convert textual labels into numerical format.
+Key Activities of the Project
+1)Data Collection and Loading:
+Obtain the IMDb Movie Reviews dataset from a reliable source.
+Load the dataset into a pandas DataFrame for easy manipulation and analysis.
+2)Exploratory Data Analysis (EDA):
+Inspect the dataset to understand its structure, including the number of samples, feature types, and target distribution.
+Visualize the distribution of positive and negative reviews.
+Identify and handle missing or duplicate data.
